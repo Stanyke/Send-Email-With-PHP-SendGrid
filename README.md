@@ -27,4 +27,11 @@ Well Let's get down to business and don't get bored.
 5.	Place the PHP code (the one you have written, NB: mine is saved with mail.php) with the folder "sendgrid-php" in the same folder and run your code.
 
 
-Yay! It worked, Happy Coding!!!
+Yay! It worked.
+
+Feel free to reach out to me at:
+
+Email: chibuike.stanley50@gmail.com
+LinkedIn: https://linkedin.com/in/stanley-chibuike-950a28159
+
+Happy Coding!!!
